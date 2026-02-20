@@ -3,7 +3,7 @@ export default function Privacy() {
   const contactEmail = "mlplao.student@ua.edu.ph"; // Replace with your actual email
 
   return (
-    <div style={{ padding: '2rem', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto', color: 'white' }}>
+    <div style={{ padding: '2rem', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto', color: 'black' }}>
       <h1>Privacy Policy</h1>
       <p>Last updated: February 20, 2026</p>
       
